@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CURP Gen</string>
+
+    <string-array name="states">
+        <item>Aguascalientes</item>
+        <item>Baja California</item>
+        <item>Jalisco</item>
+        <item>Nayarit</item>
+        <item>Sinaloa</item>
+        <item>Zacatecas</item>
+    </string-array>
+
+</resources>
